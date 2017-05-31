@@ -1,0 +1,7 @@
+Final grade for assignment C: 92%
+
+With the grading deadline just a week after the final class and four days after submission I didn't get to do as much testing on AWS as I would like (run times were quite long and I wanted students to at least have roughly equal cuts even with the runtime variability).
+
+What impressed me across all your assignments is the clarity of your code and clear reasoning behind your logic. Very well done!
+
+Nice one-page write-up for assignment C. Thanks!

@@ -1,0 +1,5 @@
+A nice job with clean and understandable code. Good work!
+
+Final grade for assignment A: 90%
+
+I know that you and the other students had to contend with problems with Penzias during this assignment. Indeed, the problems with Penzias have continued throughout grading and I wasn't able to run programs at the scale I would like. But what you submitted gives me confidence that the principles behind "running at scale" and the necessity of having machines "scrub data" have been well learned. As I say, well done!
